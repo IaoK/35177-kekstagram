@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Екатерина Йао](https://up.htmlacademy.ru/javascript/14/user/35177).
-* Наставник: `Неизвестно`.
+* Наставник: [Владимир Кашапов](https://up.htmlacademy.ru/javascript/14/user/214503).
 
 ---
 
